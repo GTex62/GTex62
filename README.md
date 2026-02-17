@@ -1,4 +1,4 @@
-# Hi, I'm Geoffrey 👋  
+# Hi, 👋  
 ### aka [GTex62](https://github.com/GTex62)
 
 I'm a Linux enthusiast, developer, and designer — I build clean and modular systems that look good *and* run lean.  
