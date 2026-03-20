@@ -6,10 +6,10 @@ I'm a Linux enthusiast, developer, and designer — I build clean and modular sy
 ---
 
 ### 🖥️ Featured Project
-[**gtex62-clean-suite**](https://github.com/GTex62/gtex62-clean-suite)  
-A modular Conky suite for Linux desktops featuring system, network, and weather widgets — built with Lua and themed for clarity.  
+[**gtex62-tri-hud**](https://github.com/GTex62/gtex62-tri-hud)  
+Conky suite focused on a full-width tactical Tri-HUD with weather, aviation, system/network telemetry, and diagnostics.  
 
-![gtex62-clean-suite preview](https://raw.githubusercontent.com/GTex62/gtex62-clean-suite/main/screenshots/gtex62-clean-suite.png)
+![gtex62-tri-hud preview](https://raw.githubusercontent.com/GTex62/gtex62-tri-hud/main/screenshots/gtex62-tri-hud-3.png)
 
 ---
 
@@ -20,6 +20,5 @@ A modular Conky suite for Linux desktops featuring system, network, and weather 
 
 ### 📫 Connect
 - GitHub: [@GTex62](https://github.com/GTex62)
-- Reddit: (optional)
-- Email: (optional)
-
+- Reddit: [u/GTex62](https://www.reddit.com/user/GTex62/)
+- Email: 
