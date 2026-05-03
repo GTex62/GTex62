@@ -6,10 +6,10 @@ I'm a Linux enthusiast, developer, and designer — I build clean and modular sy
 ---
 
 ### 🖥️ Featured Project
-[**gtex62-tri-hud**](https://github.com/GTex62/gtex62-tri-hud)  
-Conky suite focused on a full-width tactical Tri-HUD with weather, aviation, system/network telemetry, and diagnostics.  
+[**gtex62-osa**](https://github.com/GTex62/gtex62-osa)  
+OSA is a single Conky tactical chassis with six coordinated panels: system, time/calendar, weather, network, orbital/terminator, and environmental data. The suite owns the visual language and panel composition. The engine owns the runtime model, provider orchestration, normalized cache, and shared setup.  
 
-![gtex62-tri-hud preview](https://raw.githubusercontent.com/GTex62/gtex62-tri-hud/main/screenshots/gtex62-tri-hud-3.png)
+![gtex62-osa preview](https://raw.githubusercontent.com/GTex62/gtex62-osa/main/screenshots/osa-main-lcd_parchment.png)
 
 ---
 
